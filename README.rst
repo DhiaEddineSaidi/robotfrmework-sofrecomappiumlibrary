@@ -23,7 +23,7 @@ Using ``pip``
 The recommended installation method is using
 `pip <http://pip-installer.org>`__::
 
-    pip install robotframework-appiumlibrary
+    pip install robotframework-sofrecomappiumlibrary
 
 Using ``setup.py``
 ''''''''''''''''''
