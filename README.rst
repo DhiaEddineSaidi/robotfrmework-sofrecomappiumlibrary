@@ -76,16 +76,16 @@ Project Contributors
 * `Dhia Eddine Saidi <https://github.com/DhiaEddineSaidi>`_
 
 
+
 .. image:: https://img.shields.io/pypi/v/robotframework-appiumlibrary.svg
     :target: https://pypi.python.org/pypi/robotframework-appiumlibrary/
     :alt: Latest PyPI version
 
-.. image:: https://travis-ci.org/jollychang/robotframework-appiumlibrary.svg?branch=master
-    :target: https://travis-ci.org/jollychang/robotframework-appiumlibrary
+.. https://travis-ci.org/DhiaEddineSaidi/robotfrmework-sofrecomappiumlibrary.svg?branch=master
+    :target: https://travis-ci.org/DhiaEddineSaidi/robotfrmework-sofrecomappiumlibrary
 
-.. image:: https://img.shields.io/pypi/dm/robotframework-appiumlibrary.svg
-    :target: https://pypi.python.org/pypi/robotframework-appiumlibrary/
+.. image:: https://img.shields.io/pypi/dm/robotframework-sofrecomappiumlibrary.svg
+    :target: https://pypi.python.org/pypi/robotframework-sofrecomappiumlibrary
     :alt: Number of PyPI downloads
 
-.. image:: https://pledgie.com/campaigns/25326.png
-    :target: https://pledgie.com/campaigns/25326
+
