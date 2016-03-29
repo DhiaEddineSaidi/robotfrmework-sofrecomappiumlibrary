@@ -77,8 +77,8 @@ Project Contributors
 
 
 
-.. image:: https://img.shields.io/pypi/v/robotframework-appiumlibrary.svg
-    :target: https://pypi.python.org/pypi/robotframework-appiumlibrary/
+.. image:: https://img.shields.io/pypi/v/robotframework-sofrecomappiumlibrary.svg
+    :target: https://pypi.python.org/pypi/robotframework-sofrecomappiumlibrary
     :alt: Latest PyPI version
 
 .. https://travis-ci.org/DhiaEddineSaidi/robotfrmework-sofrecomappiumlibrary.svg?branch=master
