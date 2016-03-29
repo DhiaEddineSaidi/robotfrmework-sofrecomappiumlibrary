@@ -81,11 +81,12 @@ Project Contributors
     :target: https://pypi.python.org/pypi/robotframework-sofrecomappiumlibrary
     :alt: Latest PyPI version
 
-.. https://travis-ci.org/DhiaEddineSaidi/robotfrmework-sofrecomappiumlibrary.svg?branch=master
+.. image::https://travis-ci.org/DhiaEddineSaidi/robotfrmework-sofrecomappiumlibrary.svg?branch=master
     :target: https://travis-ci.org/DhiaEddineSaidi/robotfrmework-sofrecomappiumlibrary
 
 .. image:: https://img.shields.io/pypi/dm/robotframework-sofrecomappiumlibrary.svg
     :target: https://pypi.python.org/pypi/robotframework-sofrecomappiumlibrary
     :alt: Number of PyPI downloads
+
 
 
